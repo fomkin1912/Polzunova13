@@ -42,5 +42,8 @@ group :development, :test do
   gem 'spring'
   
   gem 'devise'
+  
+  gem "haml-rails", "~> 0.9"
+  
 end
 
